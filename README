@@ -1,0 +1,1 @@
+WimmWidgets is an android library project for reusable UI widgets suitable for the WIMM One android watch.  So far, it only includes a NumberPicker and a Test android activity which puts a NumberPicker on the screen.
